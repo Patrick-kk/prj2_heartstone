@@ -10,3 +10,7 @@
 4. 利用tesseract进行文字识别  
 
 第二部分暂时没理解怎么整理自己的卡牌库
+
+
+Update(2017-10-19, kk)
+通过 http://hs.blizzard.cn/action/cards/query 可以获取完整卡牌信息的JSON，图片识别就非必要了
